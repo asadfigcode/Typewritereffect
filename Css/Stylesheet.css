@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #4263a2;
+}
+
+.main_heading{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}
